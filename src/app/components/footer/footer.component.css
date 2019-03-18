@@ -1,0 +1,23 @@
+h1 {
+  color: cadetblue;
+  }
+  h2 {
+
+    color:chartreuse;
+    font-size: .8em;
+  }
+
+  footer.page-footer {
+
+      position: absolute;
+      left: 0;
+      height: 60px;
+      padding: 5px;
+      bottom: 0;
+      width: 100%;
+      background-color: blue;
+      color: white;
+      text-align: center;
+
+
+  }
