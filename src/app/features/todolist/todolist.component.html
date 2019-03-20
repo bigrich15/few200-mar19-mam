@@ -1,0 +1,14 @@
+<header>
+  <h4>Todo List</h4>
+</header>
+
+<div class="row">
+  <div class="col">
+    <app-entry> </app-entry>
+  </div>
+
+  <div class="col">
+    <app-list [items]="todoList$ | async"> </app-list>
+  </div>
+
+</div>
